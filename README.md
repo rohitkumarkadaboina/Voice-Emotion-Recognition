@@ -117,6 +117,3 @@ This project is for educational purposes. Please ensure RAVDESS terms are follow
 ## 🤝 Contributions
 
 Feel free to fork the repo, suggest improvements, or raise issues!
-
-```
-
